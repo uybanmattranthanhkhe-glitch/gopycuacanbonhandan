@@ -3,7 +3,7 @@
 // ============================================================
 
 // URL của Google Apps Script Web App
-const WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbxOmMphyo8kNDR2PyK6FG4lpI3nWd9lffnq8kcyb6qrSrsjf4UjfBioosksVwrwHfwl/exec';
+const WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbzJc_9NAVev_bnxkThTCSOftW842yDEUtePwKRTuHs1f7rm3MyxSdlvG6Ruyw7if7I4kA/exec';
 
 // URL trang chủ người dùng
 const HOME_URL = 'index.html';
